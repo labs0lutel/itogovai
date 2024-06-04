@@ -10,7 +10,7 @@ html{
   scroll-behavior: smooth;
 }
 body {
-    background: url('/img/becgraund.png') no-repeat;
+    background: url('/img/bak.jpg') no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
